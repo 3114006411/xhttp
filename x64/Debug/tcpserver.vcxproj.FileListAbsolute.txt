@@ -1,0 +1,2 @@
+Y:\src\xhttp\x64\Debug\tcpserver.exe
+Y:\src\xhttp\x64\Debug\tcpserver.pdb
